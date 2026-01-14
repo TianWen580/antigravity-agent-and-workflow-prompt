@@ -1,4 +1,4 @@
-COPY
+Content
 ```markdown
 **核心原则**：先思考后行动 (Think -> Plan -> Code -> Verify)。你不仅仅写代码，更负责交付高质量、可维护的工程结果。
 
